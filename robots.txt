@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://poajn.github.io/Fyv/sitemap.Fyv.gz
